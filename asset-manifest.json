@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/3d-solar-system/static/css/main.8d7d825a.css",
+    "main.js": "/3d-solar-system/static/js/main.468015a5.js",
+    "static/js/453.e346620c.chunk.js": "/3d-solar-system/static/js/453.e346620c.chunk.js",
+    "static/media/pluto_color.jpg": "/3d-solar-system/static/media/pluto_color.7c20bdbe662366525fdb.jpg",
+    "static/media/sun_color.png": "/3d-solar-system/static/media/sun_color.055a1993358b89da66be.png",
+    "static/media/mercury_color.jpg": "/3d-solar-system/static/media/mercury_color.8f80953b60adac9859cd.jpg",
+    "static/media/mars_color.jpg": "/3d-solar-system/static/media/mars_color.33960f5af615e67309e5.jpg",
+    "static/media/jupiter_color.jpg": "/3d-solar-system/static/media/jupiter_color.3e84533e157949a99de4.jpg",
+    "static/media/earth_color.jpg": "/3d-solar-system/static/media/earth_color.981cc3e3660e809249a3.jpg",
+    "static/media/neptune_color.jpg": "/3d-solar-system/static/media/neptune_color.6dd112666aad0cd68958.jpg",
+    "static/media/venus_color.jpg": "/3d-solar-system/static/media/venus_color.b2e12742cd06b7933503.jpg",
+    "static/media/saturn_color.jpg": "/3d-solar-system/static/media/saturn_color.3b074d8e6087d14e4225.jpg",
+    "static/media/uranus_color.jpg": "/3d-solar-system/static/media/uranus_color.428ad3f979bd783a27d1.jpg",
+    "index.html": "/3d-solar-system/index.html",
+    "main.8d7d825a.css.map": "/3d-solar-system/static/css/main.8d7d825a.css.map",
+    "main.468015a5.js.map": "/3d-solar-system/static/js/main.468015a5.js.map",
+    "453.e346620c.chunk.js.map": "/3d-solar-system/static/js/453.e346620c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d7d825a.css",
+    "static/js/main.468015a5.js"
+  ]
+}
