@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/3d-solar-system/static/css/main.8d7d825a.css",
-    "main.js": "/3d-solar-system/static/js/main.468015a5.js",
+    "main.js": "/3d-solar-system/static/js/main.df3f1799.js",
     "static/js/453.e346620c.chunk.js": "/3d-solar-system/static/js/453.e346620c.chunk.js",
     "static/media/pluto_color.jpg": "/3d-solar-system/static/media/pluto_color.7c20bdbe662366525fdb.jpg",
     "static/media/sun_color.png": "/3d-solar-system/static/media/sun_color.055a1993358b89da66be.png",
@@ -15,11 +15,11 @@
     "static/media/uranus_color.jpg": "/3d-solar-system/static/media/uranus_color.428ad3f979bd783a27d1.jpg",
     "index.html": "/3d-solar-system/index.html",
     "main.8d7d825a.css.map": "/3d-solar-system/static/css/main.8d7d825a.css.map",
-    "main.468015a5.js.map": "/3d-solar-system/static/js/main.468015a5.js.map",
+    "main.df3f1799.js.map": "/3d-solar-system/static/js/main.df3f1799.js.map",
     "453.e346620c.chunk.js.map": "/3d-solar-system/static/js/453.e346620c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8d7d825a.css",
-    "static/js/main.468015a5.js"
+    "static/js/main.df3f1799.js"
   ]
 }
