@@ -154,7 +154,7 @@ function App() {
               anchorY="middle"
               font={undefined}
             >
-              Diddy's solar system
+              SOLAR SYSTEM
             </Text>
 
             <OrbitControls 
@@ -191,9 +191,9 @@ function App() {
           color: '#ffffff', letterSpacing: '2px', fontWeight: 800, fontSize: '0.8rem',
           marginTop: '24px'
         }}>
-          KUROs SOLAR SYSTEM
-        </div>
-      </div>
+        KURO's SOLAR SYSTEM
+        </div>  
+      </div>  
 
       {selectedProject && (
         <Sidebar
